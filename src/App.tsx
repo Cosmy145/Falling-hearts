@@ -68,7 +68,7 @@ const HeartsAndRosesFalling = () => {
  fontSize: '2rem',
  }}
  >
- {item.type === 'heart' ? '♥️' : '🌹'}
+ {item.type === 'heart' ? '❤️' : '🌹'}
  </div>
  ))}
  </div>
