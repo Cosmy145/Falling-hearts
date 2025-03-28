@@ -54,7 +54,7 @@ const HeartsAndRosesFalling = () => {
  <div className="relative h-screen w-screen bg-red-100 overflow-hidden">
  {/* Big Heart */}
  <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-red-500 text-[15rem]">
- 🫀
+ ❤️
  </div>
 
  {/* Falling Items */}
